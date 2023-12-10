@@ -12,10 +12,10 @@ authors:
   - 原田研介
 
 date: '2023-07-01T00:00:00Z'
-doi: ''
+doi: 10.7210/jrsj.41.643
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-01T00:00:00Z'
+publishDate: '2023-09-09T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
