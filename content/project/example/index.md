@@ -1,22 +1,22 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Exhibition in iREX2023
+summary: Rearranging unknown objects on the shelf.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: https://irex.nikkan.co.jp/
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: youtube
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Watch
+    url: https://youtu.be/hS0-_q440aY?si=Qcj5-FZF30rCR9vX
 url_code: ''
 url_pdf: ''
 url_slides: ''
