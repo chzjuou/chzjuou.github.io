@@ -17,18 +17,9 @@ doi: 10.7210/jrsj.41.643
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-09-09T00:00:00Z'
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
-
 # Publication name and optional abbreviated publication name.
 publication: "日本ロボット学会誌, vol. 41, no. 7, pp. 643-646, 2023"
 publication_short: ""
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
 
 url_pdf: https://www.jstage.jst.go.jp/article/jrsj/41/7/41_41_643/_pdf
 url_code: ''
