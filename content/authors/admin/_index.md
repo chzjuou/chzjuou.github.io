@@ -3,7 +3,7 @@
 title: 陳浩
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chen Hao
 
 # Full name (for SEO)
 first_name: Hao
@@ -37,54 +37,14 @@ interests:
 education:
   courses:
     - course: PhD in Robotics
-      institution: Osaka University
+      institution: Osaka University, Japan
       year: 2022 ~ Now
     - course: MEng in Robotics
-      institution: Osaka University
+      institution: Osaka University, Japan
       year: 2020 ~ 2022
     - course: BSc in Mechatronics
-      institution: Zhejiang University
+      institution: Zhejiang University, China
       year: 2015 ~ 2019
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
