@@ -1,5 +1,5 @@
 ---
-title: Exhibition in iREX2023
+title: Exhibition at iREX2023
 summary: |
   Rearranging unknown objects on the shelf. \
   📍 East-8 Hall, Tokyo Big Sight, Japan.
