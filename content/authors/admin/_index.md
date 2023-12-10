@@ -71,5 +71,5 @@ social:
 highlight_name: true
 ---
 
-Hao Chen is a PhD student of robotics at the Harada Lab, Graduate School of Engineering Science, Osaka University. His research interests include robotic manipulation, novel object grasping and visual processing. He is currently in charge of collaborative research with ROBOCIP and Panasonic Connect.
+Hao Chen is a PhD student of robotics at the Harada Lab, Graduate School of Engineering Science, Osaka University. His research interests include robotic manipulation, dexterous grasping and visual processing. He is currently in charge of collaborative research with ROBOCIP and Panasonic Connect.
 {style="text-align: justify;"}
