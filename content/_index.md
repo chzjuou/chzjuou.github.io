@@ -87,7 +87,7 @@ sections:
       email: hchenrsjp@gmail.com
       # phone: +81-08087005028
       address: 
-        street: Engineering Science Bldg. F 5F, No.531-33
+        street: Engineering Science Bldg. F531-33
         city: 1-3, Machikaneyamacho，Toyonaka
         region: Osaka
         postcode: '560-8531'
