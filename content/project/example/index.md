@@ -1,7 +1,7 @@
 ---
 title: Exhibition in iREX2023
-summary: Rearranging unknown objects on the shelf. >
-:📍 NEDO Booth, East-8 Hall, Tokyo Big Sight, Tokyo, Japan.
+summary: Rearranging unknown objects on the shelf. \n
+📍 NEDO Booth, East-8 Hall, Tokyo Big Sight, Tokyo, Japan.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
