@@ -5,7 +5,6 @@ authors:
 - Takuya Kiyokawa
 - Weiwei Wan
 - Kensuke Harada
-date: ""
 doi: 10.1109/LRA.2022.3145956
 
 # Publication name and optional abbreviated publication name.
