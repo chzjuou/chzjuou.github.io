@@ -9,15 +9,15 @@ date: ""
 doi: 10.1109/LRA.2022.3145956
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+# publishDate: "2022"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+# publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Robotics and Automation Letters*, vol. 7, no. 2, pp. 2961-2968, 2022."
+publication: "*IEEE Robotics and Automation Letters*, vol. 7, no. 2, pp. 2961-2968, 2022"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -55,12 +55,6 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 {{% callout note %}}
