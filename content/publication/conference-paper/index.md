@@ -21,6 +21,10 @@ publishDate: '2023-09-09T00:00:00Z'
 publication: "日本ロボット学会誌, vol. 41, no. 7, pp. 643-646, 2023"
 publication_short: ""
 
+tags:
+- Source Themes
+featured: true
+
 url_pdf: https://www.jstage.jst.go.jp/article/jrsj/41/7/41_41_643/_pdf
 url_code: ''
 url_dataset: ''
