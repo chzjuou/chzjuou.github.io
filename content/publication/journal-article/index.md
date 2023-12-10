@@ -7,14 +7,6 @@ authors:
 - Kensuke Harada
 doi: 10.1109/LRA.2022.3145956
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2022"
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
-
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Robotics and Automation Letters*, vol. 7, no. 2, pp. 2961-2968, 2022"
 publication_short: ""
