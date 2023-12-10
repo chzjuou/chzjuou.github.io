@@ -2,7 +2,7 @@
 title: Exhibition in iREX2023
 summary: |
   Rearranging unknown objects on the shelf. \
-  📍 East8-35 Hall, Tokyo Big Sight, Japan.
+  📍 East-8 Hall, Tokyo Big Sight, Japan.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
