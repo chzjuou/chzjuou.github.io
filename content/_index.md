@@ -88,10 +88,10 @@ sections:
       # phone: +81-08087005028
       address: 
         street: Engineering Science Bldg. F 5F, No.531-33
-        city: 1-3, Machikaneyamacho
-        region: Toyonaka
+        city: 1-3, Machikaneyamacho，Toyonaka
+        region: Osaka
         postcode: '560-8531'
-        country: Osaka
+        country: Japan
         country_code: JP
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
