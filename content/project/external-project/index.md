@@ -1,5 +1,5 @@
 ---
-title: Presentation in RSJ2023
+title: Presentation at RSJ2023
 summary: |
   Similarity-based fast grasp planning of unknown objects on a conveyor belt. \
   📍 2E2-05, Sendai International Center, Japan.
