@@ -83,7 +83,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please feel free to contact me if you have any concerns!
+        Please feel free to contact me if you have any questions or concerns!
       # Contact (add or remove contact options as necessary)
       email: hchenrsjp@gmail.com
       # phone: +81-08087005028
