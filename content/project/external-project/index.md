@@ -1,12 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Presentation in RSJ2023
+summary: |
+  Similarity-based fast grasp planning of unknown objects on a conveyor belt. \
+  📍　Sendai International Center,　Miyagi, Japan.
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: ''
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
