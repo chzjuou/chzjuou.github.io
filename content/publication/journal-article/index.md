@@ -8,7 +8,7 @@ authors:
 doi: 10.1109/LRA.2022.3145956
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
