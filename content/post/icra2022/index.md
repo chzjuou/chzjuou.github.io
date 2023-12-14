@@ -1,17 +1,17 @@
 ---
 title: Presentation at ICRA2022
 summary: |
-   Category-Association Based Similarity Matching for Novel Object Pick-and-Place Task \
+  Category-Association Based Similarity Matching for Novel Object Pick-and-Place Task \
   📍 Pennsylvania Convention Center, Philadelphia (PA), USA
 tags:
   - Deep Learning
-date: '2022-05-27T00:00:00Z'
+date: "2022-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://icra2022.org/
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 
 links:
