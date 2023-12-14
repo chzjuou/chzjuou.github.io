@@ -1,14 +1,14 @@
 ---
-title: Exhibition at iREX2023
+title: Presentation at ICRA2022
 summary: |
-  Rearranging unknown objects on the shelf \
-  📍 East-8 Hall, Tokyo Big Sight, Japan
+   Category-Association Based Similarity Matching for Novel Object Pick-and-Place Task \
+  📍 Pennsylvania Convention Center, Philadelphia (PA), USA
 tags:
   - Deep Learning
-date: '2023-12-27T00:00:00Z'
+date: '2022-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://irex.nikkan.co.jp/
+external_link: https://icra2022.org/
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -18,7 +18,7 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Watch
-    url: https://youtu.be/hS0-_q440aY?si=Qcj5-FZF30rCR9vX
+    url: https://www.youtube.com/watch?v=w3BQTLdVW2c
 url_code: ''
 url_pdf: ''
 url_slides: ''
