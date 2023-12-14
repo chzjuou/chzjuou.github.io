@@ -5,7 +5,7 @@ summary: |
   📍 East-8 Hall, Tokyo Big Sight, Japan
 tags:
   - Deep Learning
-date: '2023-12-27T00:00:00Z'
+date: '2023-11-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://irex.nikkan.co.jp/
