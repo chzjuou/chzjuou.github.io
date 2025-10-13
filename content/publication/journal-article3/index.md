@@ -1,17 +1,18 @@
 ---
-title: "Category-Association Based Similarity Matching for Novel Object Pick-and-Place Task"
+title: "A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning"
 authors:
 - Hao Chen
 - Takuya Kiyokawa
+- Zhengtao Hu
 - Weiwei Wan
 - Kensuke Harada
-doi: 10.1109/LRA.2022.3145956
+doi: 10.1109/TRO.2025.3588720
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-04-01T00:00:00Z'
+publishDate: '2025-07-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Robotics and Automation Letters*, vol. 7, no. 2, pp. 2961-2968, 2022"
+publication: "*IEEE Transactions on Robotics*, vol. 41, pp. 500-519, 2025"
 publication_short: ""
 
 # links:
