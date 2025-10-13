@@ -21,11 +21,11 @@ role: PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Osaka University
+  - name: The University of Osaka
     url: https://www.osaka-u.ac.jp/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotic manipulation, novel object grasping and visual processing.
+bio: My research interests include robotic manipulation, dexterous grasping and visual processing.
 
 # Interests to show in About widget
 interests:
@@ -37,10 +37,10 @@ interests:
 education:
   courses:
     - course: PhD in Robotics
-      institution: Osaka University, Japan
-      year: 2022 ~ Now
+      institution: The University of Osaka, Japan
+      year: 2022 ~ 2025
     - course: MEng in Robotics
-      institution: Osaka University, Japan
+      institution: The University of Osaka, Japan
       year: 2020 ~ 2022
     - course: BSc in Mechatronics
       institution: Zhejiang University, China
