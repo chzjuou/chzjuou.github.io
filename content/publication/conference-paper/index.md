@@ -11,7 +11,7 @@ doi: 10.1109/ICRA55743.2025.11127936
 publishDate: '2025-05-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE International Conference on Robotics and Automation (ICRA)*, Atlanta, GA, USA, 2025, pp. 14059-14065"
+publication: "*IEEE International Conference on Robotics and Automation* (ICRA), Atlanta, GA, USA, 2025, pp. 14059-14065"
 publication_short: ""
 
 # links:
