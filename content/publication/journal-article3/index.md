@@ -12,7 +12,7 @@ doi: 10.1109/TRO.2025.3588720
 publishDate: '2025-07-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Robotics*, vol. 41, pp. 500-519, 2025"
+publication: "*IEEE Transactions on Robotics (T-RO)*, vol. 41, pp. 500-519, 2025"
 publication_short: ""
 
 # links:
