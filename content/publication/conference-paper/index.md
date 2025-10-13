@@ -1,31 +1,23 @@
 ---
-title: '把持物体のオントロジーを用いた未知物体の把持'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Adaptive Grasping of Moving Objects in Dense Clutter via Global-to-Local Detection and Static-to-Dynamic Planning"
 authors:
-  - 陳浩
-  - 清川拓哉
-  - 胡正涛
-  - 万偉偉
-  - 原田研介
-
-date: '2023-09-09T00:00:00Z'
-doi: 10.7210/jrsj.41.643
+- Hao Chen
+- Takuya Kiyokawa
+- Weiwei Wan
+- Kensuke Harada
+doi: 10.1109/ICRA55743.2025.11127936
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-09-09T00:00:00Z'
+publishDate: '2025-05-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
-publication: "日本ロボット学会誌, vol. 41, no. 7, pp. 643-646, 2023"
+publication: "*IEEE International Conference on Robotics and Automation (ICRA)*, Atlanta, GA, USA, 2025, pp. 14059-14065"
 publication_short: ""
 
-tags:
-- Source Themes
-featured: true
-
-url_pdf: https://www.jstage.jst.go.jp/article/jrsj/41/7/41_41_643/_pdf
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://arxiv.org/pdf/2201.08177.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -34,12 +26,19 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
