@@ -17,7 +17,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2201.08177.pdf
+url_pdf: https://arxiv.org/pdf/2502.05916
 url_code: ''
 url_dataset: ''
 url_poster: ''
