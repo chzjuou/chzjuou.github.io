@@ -11,7 +11,7 @@ doi: 10.1109/LRA.2022.3145956
 publishDate: '2022-04-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Robotics and Automation Letters (RA-L)*, vol. 7, no. 2, pp. 2961-2968, 2022"
+publication: "*IEEE Robotics and Automation Letters* (RA-L), vol. 7, no. 2, pp. 2961-2968, 2022"
 publication_short: ""
 
 # links:
