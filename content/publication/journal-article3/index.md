@@ -19,7 +19,7 @@ publication_short: ""
 # - name: ""
 #   url: ""
 url_pdf: https://arxiv.org/pdf/2507.11938
-url_code: ''
+url_code: https://github.com/chzjuou/Similarity-Based-Object-Grasping
 url_dataset: ''
 url_poster: ''
 url_project: ''
