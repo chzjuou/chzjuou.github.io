@@ -17,7 +17,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0921889026001156?via%3Dihub
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
