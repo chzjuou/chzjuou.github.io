@@ -1,25 +1,24 @@
 ---
-title: "A Multilevel Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning"
+title: "Generalizable task-oriented object grasping through LLM-guided ontology and similarity-based planning"
 authors:
 - Hao Chen
 - Takuya Kiyokawa
-- Zhengtao Hu
 - Weiwei Wan
 - Kensuke Harada
-doi: 10.1109/TRO.2025.3588720
+doi: 10.1016/j.robot.2026.105442
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-01T00:00:00Z'
+publishDate: '2026-03-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Robotics* (T-RO), vol. 41, pp. 500-519, 2025"
+publication: "*Robotics and Autonomous Systems*, vol. 201, pp. 105442, 2026"
 publication_short: ""
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2507.11938
-url_code: https://github.com/chzjuou/Similarity-Based-Object-Grasping
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0921889026001156?via%3Dihub
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
