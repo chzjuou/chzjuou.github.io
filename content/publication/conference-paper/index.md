@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Grasping of Moving Objects in Dense Clutter via Global-to-Local Detection and Static-to-Dynamic Planning"
 authors:
-- Hao Chen
+- **Hao Chen**
 - Takuya Kiyokawa
 - Weiwei Wan
 - Kensuke Harada
