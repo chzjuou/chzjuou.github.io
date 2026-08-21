@@ -1,7 +1,7 @@
 ---
 title: "Generalizable task-oriented object grasping through LLM-guided ontology and similarity-based planning"
 authors:
-- Hao Chen
+- "**Hao Chen**"
 - Takuya Kiyokawa
 - Weiwei Wan
 - Kensuke Harada
