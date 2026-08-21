@@ -18,7 +18,7 @@ doi: 10.7210/jrsj.41.643
 publishDate: '2023-09-09T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of the Robotics Society of Japan, vol. 41, no. 7, pp. 643-646, 2023"
+publication: "*Journal of the Robotics Society of Japan*, vol. 41, no. 7, pp. 643-646, 2023"
 publication_short: ""
 
 url_pdf: https://www.jstage.jst.go.jp/article/jrsj/41/7/41_41_643/_pdf
