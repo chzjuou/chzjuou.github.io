@@ -11,7 +11,7 @@ doi: 10.1016/j.robot.2026.105442
 publishDate: '2026-03-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
-publication: "*Robotics and Autonomous Systems*, vol. 201, pp. 105442, 2026"
+publication: "*Robotics and Autonomous Systems*, vol. 201, Art. no. 105442, 2026"
 publication_short: ""
 
 # links:
