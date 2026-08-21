@@ -1,7 +1,7 @@
 ---
 title: "A Multilevel Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning"
 authors:
-- "**Hao Chen**"
+- Hao Chen
 - Takuya Kiyokawa
 - Zhengtao Hu
 - Weiwei Wan
