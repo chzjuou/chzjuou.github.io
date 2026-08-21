@@ -8,7 +8,7 @@ authors:
 doi: 10.1016/j.robot.2026.105442
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: '2026-03-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
 publication: "*Robotics and Autonomous Systems*, vol. 201, Art. no. 105442, 2026"
