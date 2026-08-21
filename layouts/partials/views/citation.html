@@ -2,7 +2,6 @@
 {{ $year_value := $item.Params.event_start | default $item.Date }}
 {{ $year := (time $year_value).Format "2006" }}
 {{ $has_attachments := partial "functions/has_attachments" $item }}
-{{ $pub := partial "functions/resolve_publication.html" $item }}
 {{ $top_award := "" }}
 {{ with $item.Params.awards }}{{ $top_award = index . 0 }}{{ end }}
 
@@ -16,7 +15,7 @@
     {{ partial "page_metadata_authors" $item }}
   </span>
   <a href="{{ $item.RelPermalink }}" class="underline">{{ $item.Title }}</a>.
-  {{ with $pub.display_short }}{{- . | markdownify -}}.{{ end }}
+  {{ with $item.Params.publication }}{{- . | markdownify -}}.{{ end }}
   {{ with $top_award }}
     <span class="ml-1">{{ partial "components/award_badge.html" (dict "award" . "page" $item "variant" "inline") }}</span>
   {{ end }}
