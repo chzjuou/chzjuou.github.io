@@ -33,7 +33,7 @@
     {{ partial "page_metadata_authors" $item }}.
   </span>
   <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
-  {{ with $pub.display_short }}{{- . | markdownify -}},{{ end }}
+  {{ with $item.Params.publication }}{{- . | markdownify -}},{{ end }}
   {{- $year -}}.
   {{ with $top_award }}
     <span class="ml-1">{{ partial "components/award_badge.html" (dict "award" . "page" $item "variant" "inline") }}</span>
