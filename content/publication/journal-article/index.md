@@ -1,7 +1,7 @@
 ---
 title: "Category-Association Based Similarity Matching for Novel Object Pick-and-Place Task"
 authors:
-- "**Hao Chen**"
+- Hao Chen
 - Takuya Kiyokawa
 - Weiwei Wan
 - Kensuke Harada
