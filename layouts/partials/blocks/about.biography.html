@@ -1,6 +1,5 @@
 {{/* Hugo Blox - About / Biography */}}
 
-{{/* Initialise */}}
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
 
@@ -11,7 +10,7 @@
 {{ $author = $block.content.username }}
 {{ end }}
 
-{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page_path := printf "/authors/%s" $author }}
 {{ $person_page := site.GetPage $person_page_path }}
 
 {{ if not $person_page }}
@@ -22,16 +21,11 @@
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
 
-<!-- About / Biography -->
-
 <div class="row">
-
-  <!-- Left column -->
 
   <div class="col-12 col-lg-4">
     <div id="profile">
 
-```
   {{ if site.Params.features.avatar.gravatar }}
 
     <img
@@ -44,17 +38,7 @@
 
   {{ else if $avatar }}
 
-    {{/*
-      Generate three avatar resolutions:
-
-      1x = 270 × 270
-      2x = 540 × 540
-      3x = 810 × 810
-
-      The avatar is still displayed at 270 × 270 CSS pixels.
-      High-DPI displays can automatically select a sharper version.
-    */}}
-
+    {{/* Generate 270px, 540px, and 810px versions */}}
     {{ $avatar_1x := $avatar.Fill "270x270 Center" }}
     {{ $avatar_2x := $avatar.Fill "540x540 Center" }}
     {{ $avatar_3x := $avatar.Fill "810x810 Center" }}
@@ -103,7 +87,6 @@
 
   </div>
 
-  <!-- Social links -->
   <ul class="network-icon" aria-hidden="true">
 
     {{ range $person.social }}
@@ -140,15 +123,11 @@
   </ul>
 
 </div>
-```
 
   </div>
 
-  <!-- Right column -->
-
   <div class="col-12 col-lg-8">
 
-```
 {{ with $block.content.title }}
   <h1>{{ . | markdownify | emojify }}</h1>
 {{ end }}
@@ -161,7 +140,6 @@
 
 <div class="row">
 
-  <!-- Interests -->
   {{ with $person.interests }}
 
     <div class="col-md-5">
@@ -173,12 +151,10 @@
       <ul class="ul-interests fa-ul mb-0">
 
         {{ range . }}
-
           <li>
             <i class="fa-li fa-solid fa-book-open"></i>
             {{ . | markdownify | emojify }}
           </li>
-
         {{ end }}
 
       </ul>
@@ -187,7 +163,6 @@
 
   {{ end }}
 
-  <!-- Education -->
   {{ with $person.education }}
 
     <div class="col-md-7">
@@ -228,7 +203,6 @@
   {{ end }}
 
 </div>
-```
 
   </div>
 
